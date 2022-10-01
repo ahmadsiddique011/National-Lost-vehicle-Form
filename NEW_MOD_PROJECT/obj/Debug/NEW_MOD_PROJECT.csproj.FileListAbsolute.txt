@@ -1,0 +1,10 @@
+C:\Users\Ahmad siddique\Desktop\NEW_MOD_PROJECT\NEW_MOD_PROJECT\bin\Debug\NEW_MOD_PROJECT.exe.config
+C:\Users\Ahmad siddique\Desktop\NEW_MOD_PROJECT\NEW_MOD_PROJECT\bin\Debug\NEW_MOD_PROJECT.exe
+C:\Users\Ahmad siddique\Desktop\NEW_MOD_PROJECT\NEW_MOD_PROJECT\bin\Debug\NEW_MOD_PROJECT.pdb
+C:\Users\Ahmad siddique\Desktop\NEW_MOD_PROJECT\NEW_MOD_PROJECT\obj\Debug\NEW_MOD_PROJECT.csproj.AssemblyReference.cache
+C:\Users\Ahmad siddique\Desktop\NEW_MOD_PROJECT\NEW_MOD_PROJECT\obj\Debug\NEW_MOD_PROJECT.Form1.resources
+C:\Users\Ahmad siddique\Desktop\NEW_MOD_PROJECT\NEW_MOD_PROJECT\obj\Debug\NEW_MOD_PROJECT.Properties.Resources.resources
+C:\Users\Ahmad siddique\Desktop\NEW_MOD_PROJECT\NEW_MOD_PROJECT\obj\Debug\NEW_MOD_PROJECT.csproj.GenerateResource.cache
+C:\Users\Ahmad siddique\Desktop\NEW_MOD_PROJECT\NEW_MOD_PROJECT\obj\Debug\NEW_MOD_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad siddique\Desktop\NEW_MOD_PROJECT\NEW_MOD_PROJECT\obj\Debug\NEW_MOD_PROJECT.exe
+C:\Users\Ahmad siddique\Desktop\NEW_MOD_PROJECT\NEW_MOD_PROJECT\obj\Debug\NEW_MOD_PROJECT.pdb
