@@ -1,0 +1,4 @@
+# National-Lost-vehicle-Form
+In Pakistan there is no proper lost cars claim company. We here took an initiative to bring up such a desktop application where the company gets missing cars from different areas of the country. When a client claims that his car is lost by providing his credentials and the FIR he filed at the police station, the company checks whether the information about the vehicle entered by the client is already available is the missing cars database. 
+The mechanism we used to achieve this goal of comparing is by using keys. 
+CNIC no. of the client is made primary key so that the company can keep record of data. The main part is the comparison of company name, and chassis no. of the vehicle if these two are matched then a prompt message will be shown to the client saying, “the vehicle is found”. 
