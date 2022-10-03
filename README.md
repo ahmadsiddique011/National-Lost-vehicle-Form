@@ -1,25 +1,5 @@
 #National Lost vehicle Form
 
-Table of Contents
-
-1.	Chapter: Introduction………………………………………………………………1
-Implementation……………………………………………………………………….1
-Forms description…………………………………………………………………….1
-
-2.	Chapter 2: Forms Description………………………………………………….......2
-Desktop Application Interface……………………………………………………...2
-i.	Explanation and Illustration of Forms…………………………………….2
-Client Information class………………………………………………………3
-Vehicle information class…………………………………………………….3
-Incident information class……………………………………………………3
-Output Class ………………………………………………………………….4
-
-
-3.	Chapter 3: Conclusion………………………………………………………………5
-Future Suggestions……………………………………………………………………5
-Conclusion…………………………………………………………………………....5
-
- 
 INTRODUCTION:
 In Pakistan there is no proper lost cars claim company. We here took an initiative to bring up such a desktop application where the company gets missing cars from different areas of the country. When a client claims that his car is lost by providing his credentials and the FIR he filed at the police station, the company checks whether the information about the vehicle entered by the client is already available is the missing cars database. 
 
